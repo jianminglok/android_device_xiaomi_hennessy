@@ -8,6 +8,7 @@ $(call inherit-product, vendor/xiaomi/hennessy/hennessy-vendor-blobs.mk)
 LOCAL_PATH := device/xiaomi/hennessy
 
 DEVICE_PACKAGE_OVERLAYS += device/xiaomi/mt6795-common/overlay
+DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal xhdpi xxhdpi
