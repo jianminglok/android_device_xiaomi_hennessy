@@ -83,7 +83,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/enableswap.sh:root/enableswap.sh \
     $(LOCAL_PATH)/rootdir/factory_init.project.rc:root/factory_init.project.rc \
     $(LOCAL_PATH)/rootdir/factory_init.rc:root/factory_init.rc \
-	$(LOCAL_PATH)/rootdir/file_context:root/file_context \
+    $(LOCAL_PATH)/rootdir/file_context:root/file_context \
     $(LOCAL_PATH)/rootdir/fstab.charger:root/fstab.charger\
     $(LOCAL_PATH)/rootdir/fstab.mt6795:root/fstab.mt6795 \
     $(LOCAL_PATH)/rootdir/init.aee.rc:root/init.aee.rc \
@@ -98,7 +98,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/meta_init.project.rc:root/meta_init.project.rc \
     $(LOCAL_PATH)/rootdir/meta_init.rc:root/meta_init.rc \
     $(LOCAL_PATH)/rootdir/init:root/init \
-    $(LOCAL_PATH)/rootdir/init.hermes.power.rc:root/init.hermes.power.rc \
+    $(LOCAL_PATH)/rootdir/init.hennessy.power.rc:root/init.hermes.power.rc \
     $(LOCAL_PATH)/rootdir/init.cm.rc:root/init.cm.rc \
 
 # Telecom
