@@ -9,7 +9,7 @@
   - lbule
   - nofearnohappy
   - pocarropa for fixing the baseband and camera
-  - rscc
+  - rssc
   - supersonicninja for updating the patches and fixing the SD card
   - Syl191 for the patches 
   - The CyanogenMod Team
